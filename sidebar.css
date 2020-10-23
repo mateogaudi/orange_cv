@@ -1,0 +1,74 @@
+#sidebar
+{
+    background:#fff;
+    width:33%;
+    display:flex;
+    flex-wrap: wrap;
+}
+.sidebar_name{
+    width:100%;
+    background-color:#c9a600;
+    height:5%;
+}
+h3{
+    font-size:20px;
+    font-weight:600;
+    color:#fff;
+    margin:0;
+    text-align:center;
+    padding:5px 000;
+}
+.sidebar_name_information{
+    width:100%;
+    height:25%;
+    background:#2e3b44;
+}
+ul{
+    margin:0;
+}
+.contact{
+    color:#fff;
+    padding:20px 0 0 0;
+    font-size: 18px;;
+}
+.contact li{
+    list-style-type:none;
+    padding:10px 30px 0px 30px;
+}
+.contact ul{
+    padding:0;
+}
+.language{
+    color:#fff;
+    font-size:20px;
+    padding:45px 0 0 20px;
+}
+.skills{
+    color:#fff;
+    font-size:18px;
+    padding:25px 0 0 20px;
+}
+.sidebar_name_information_box{
+    width:100%;
+    height:12%;
+    background:#fff;
+}
+.social_icon{
+    width:99.99%;
+    height:100%;
+    background:#fff;
+    display:flex;
+}
+.boxicon{
+    height:100%;
+    background:#2e3b44;
+    width:33.33%;
+    text-align:center;
+    color:#fff;
+    padding:15px 0 0 0;
+    box-sizing: border-box;
+    font-size:18px;
+}
+.boxicon i{
+    font-size:30px;
+}
